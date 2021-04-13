@@ -19,5 +19,5 @@
   <img src="https://i.hizliresim.com/qF3NFK.png" width="350" title="hover text">
 </p>
 
-[Konu Ankatım Videosu](https://www.youtube.com/watch?v=ouMhVqyKScI)<br>
+[Konu Anlatım Videosu](https://www.youtube.com/watch?v=ouMhVqyKScI)<br>
 [Konu Anlatım Döküman](https://berkarat.com/rsa-sifreleme-algoritmasi/)
