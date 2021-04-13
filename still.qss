@@ -1,0 +1,55 @@
+QPushButton{
+
+    border:1px solid;
+    border-color:white;
+    border-radius :10px;
+    color:white;
+}
+
+QPushButton:hover{
+
+    border:1px solid;
+    border-color:#105368;
+    border-radius :10px;
+    color:#105368;
+    background:white;
+
+}
+
+
+#lbl_Tum{
+    background:#105368;
+     color:white;
+}
+
+QLabel{
+    font-family: "Times New Roman", Times, serif;
+     color:white;
+}
+
+#lbl_p,#lbl_q,#lbl_n,#lbl_d,#lbl_e,#lbl_fi{
+     color:white;
+     font-size:14px;
+}
+
+#lbl_mesajAd,#lbl_sifreAd{
+    font-size:14px;
+     color:white;
+}
+
+#lbl_pAd,#lbl_qAd,#lbl_nAd,#lbl_dAd,#lbl_eAd,#lbl_fiAd{
+    font-size:16px;
+    color:white;
+}
+
+#lbl_sifre{
+    font-size:14px;
+    color:white;
+}
+
+#text_yazi{
+     background:white;
+     color:#105368;
+     font-size:13px;
+}
+
