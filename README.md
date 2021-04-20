@@ -5,8 +5,7 @@
 
 ### ANA EKRAN
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/82450697/115392572-62aeb200-a1e9-11eb-97c2-95d38ce9552b.PNG
-" width="350" title="hover text">
+  <img src="https://user-images.githubusercontent.com/82450697/115392572-62aeb200-a1e9-11eb-97c2-95d38ce9552b.PNG" width="350" title="hover text">
 </p>
 
 
